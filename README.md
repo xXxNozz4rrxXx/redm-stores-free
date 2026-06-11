@@ -3,7 +3,7 @@
 
 Codex Stores is a configurable RedM store system built for `codex_core`. It provides interactive NPC/location-based shops with buy and sell support, job restrictions, opening hours, blips, native RedM prompts, a custom NUI shop interface, and server-side transaction validation.
 
-> Developed by **Codex Studios**.
+> Developed by **Codex Studios** & Titans Productions .
 
 ## Features
 
